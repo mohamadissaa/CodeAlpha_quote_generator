@@ -5,16 +5,21 @@ This Flutter app generates random quotes using the ZenQuotes API and allows user
 *Features
 
 -Random Quote Generation: Fetch a new random quote with the click of a button.
+
 -Favorites: Save quotes to your favorites list for later viewing.
+
 -Share Quotes: Easily share quotes via social media or messaging apps.
+
 -Remove Favorites: Remove quotes from the favorites list.
+
 -Beautiful UI: Clean, simple design with a styled background.
 
 
-*Installation
--Clone the repository:
 
-git clone https://github.com/your-username/random-quote-generator-app.git
+*Installation
+
+-Clone the repository:git clone https://github.com/your-username/random-quote-generator-app.git
+
 -Navigate to the project directory:
 
 cd random-quote-generator-app
